@@ -1,4 +1,3 @@
-
 import re
 ph_nums = list()
 
@@ -14,3 +13,4 @@ for input_str in input_strs:
         ph_nums.append("NOPE")
 
 print(ph_nums)
+

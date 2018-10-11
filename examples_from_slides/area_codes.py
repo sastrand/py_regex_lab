@@ -1,4 +1,3 @@
-
 import re
 area_codes = list()
 
@@ -15,3 +14,4 @@ for input_str in input_strs:
         area_codes.append("NOPE")
 
 print(area_codes)
+
