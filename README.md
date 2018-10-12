@@ -15,3 +15,4 @@ eg.  `INTRODUCTION TO PLANT BIOLOGY - 10447 - BI 330 - 001`
 The python program `course_parser.py` reads this file and prints the set
 of departments represented in the file.
 
+To run from the command line `python3 course_parser.py`
